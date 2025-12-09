@@ -140,7 +140,7 @@ This dataset contains geographic mapping information for U.S. states and is used
 ## 👤 Author
 **Mayank Singh** 
 -- Aspiring Data Analyst
--- Skilled in SQL,Power BI and Excel
---- Actively seeking entry-level Data Analyst opportunities
+-- Skilled in SQL, Power BI and Excel
+-- Actively seeking entry-level Data Analyst opportunities
 
 
