@@ -77,6 +77,9 @@ The dashboard helps stakeholders monitor trends, identify top & bottom products,
 ## 📷 Dashboard Preview
 ![image alt](https://github.com/MayankSingh2000/Ecommerce-Sales-Dashboard-Project/blob/main/docs/Ecommerce%20Sales%20Dashboard.png?raw=true)
 
+## 📷 Data Modelling Preview
+![image alt](https://github.com/MayankSingh2000/Ecommerce-Sales-Dashboard-Project/blob/main/docs/Data%20Modelling.png?raw=true)
+
 ---
 
 ## 📁 Dataset Information
