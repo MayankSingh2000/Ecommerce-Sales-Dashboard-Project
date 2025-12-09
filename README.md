@@ -74,6 +74,11 @@ The dashboard helps stakeholders monitor trends, identify top & bottom products,
 
 ---
 
+## 📷 Dashboard Preview
+![image alt](https://github.com/MayankSingh2000/Ecommerce-Sales-Dashboard-Project/blob/main/docs/Ecommerce%20Sales%20Dashboard.png?raw=true)
+
+---
+
 ## 📁 Dataset Information
 
 This project uses two primary datasets which were first imported to **SQL Server Management Studio** and then to **Power BI** for analysis and visualization:
